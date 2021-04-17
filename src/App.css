@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.home,
+.projects,
+.skills,
+.experience
+
+.projects {
+  background-image: url('./images/img_project.jpg'); 
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 200px;
+}
+
+.skills {
+  background-image: url('./images/img_skills.jpg');
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 200px;
+}
+
+.experience {
+  background-image: url('./images/img_skills.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 200px;
+}
